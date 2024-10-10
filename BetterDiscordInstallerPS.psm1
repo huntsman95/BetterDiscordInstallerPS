@@ -1,0 +1,1 @@
+. $PSScriptRoot\public\bdinstaller.ps1
